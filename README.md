@@ -12,7 +12,7 @@ This course explores the mathematical foundations of computer science. It shifts
 * **Key Concepts:** Set theory, logic and proofs, graph theory, combinatorics, and boolean algebra.
 
 <blockquote> 
-📖 **My Reflection:**  
+📖 **My Reflection:**
 At first, the highly abstract nature of mathematical proofs and set theory felt completely disconnected from actual coding. However, everything clicked once we moved into graph theory, and I realized this is exactly how network routing and social media algorithms map data connections. It was a challenging mindset shift, but it drastically sharpened my analytical thinking.
 <br><br>
 🎯 **What I Gained:**  
